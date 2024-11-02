@@ -1,2 +1,1 @@
-# Desenvolvimento_Dispositivos_Moveis
-atividades e projetos na matéria Desenvolvimento para Dispositivos Móveis
+## Projetos da matéria Desenvolvimento para Dispositivos Moveis
